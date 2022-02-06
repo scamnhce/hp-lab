@@ -1,0 +1,327 @@
+-rw-r--r--   3 cloudera cloudera          282 2021-02-03 19:55 /user/cloudera/actor
+-rw-r--r--   3 cloudera cloudera         1564 2021-02-03 22:03 /user/cloudera/actor1
+-rw-r--r--   3 cloudera cloudera          212 2021-02-04 01:24 /user/cloudera/ara
+drwxr-xr-x   - cloudera cloudera            0 2020-11-19 21:43 /user/cloudera/b3
+-rw-r--r--   3 cloudera cloudera        59994 2020-11-24 20:48 /user/cloudera/cse553
+-rw-r--r--   3 cloudera cloudera           28 2020-03-13 03:43 /user/cloudera/data
+-rw-r--r--   3 cloudera cloudera           83 2020-03-11 22:59 /user/cloudera/datafile
+drwxr-xr-x   - cloudera cloudera            0 2021-01-17 22:56 /user/cloudera/deepti
+-rw-r--r--   3 cloudera cloudera         3101 2020-11-12 00:55 /user/cloudera/demo
+-rw-r--r--   3 cloudera cloudera          155 2020-03-11 21:11 /user/cloudera/doctor
+-rw-r--r--   3 cloudera cloudera         6201 2020-11-19 21:36 /user/cloudera/f1
+-rw-r--r--   3 cloudera cloudera           67 2021-02-03 00:46 /user/cloudera/f2
+-rw-r--r--   3 cloudera cloudera          110 2020-03-12 21:26 /user/cloudera/gobind
+drwxr-xr-x   - cloudera supergroup          0 2020-11-26 00:49 /user/cloudera/hio
+drwxr-xr-x   - cloudera cloudera            0 2021-02-03 00:57 /user/cloudera/l2out
+-rw-r--r--   3 cloudera cloudera           68 2021-10-11 22:48 /user/cloudera/lab1sem7.txt
+-rw-r--r--   3 cloudera cloudera           21 2020-03-11 22:03 /user/cloudera/math
+-rw-r--r--   3 cloudera cloudera          135 2021-01-28 00:25 /user/cloudera/movie
+drwxr-xr-x   - cloudera cloudera            0 2021-10-11 03:12 /user/cloudera/nh001
+-rw-r--r--   3 cloudera cloudera            0 2021-01-28 01:04 /user/cloudera/op
+drwxr-xr-x   - cloudera cloudera            0 2020-11-24 21:02 /user/cloudera/op_grep
+drwxr-xr-x   - cloudera cloudera            0 2020-11-24 20:55 /user/cloudera/opcse553
+drwxr-xr-x   - cloudera cloudera            0 2021-01-17 23:50 /user/cloudera/out1
+drwxr-xr-x   - cloudera cloudera            0 2021-01-18 00:03 /user/cloudera/out2
+drwxr-xr-x   - cloudera cloudera            0 2021-02-03 22:08 /user/cloudera/outactor
+drwxr-xr-x   - cloudera cloudera            0 2020-11-12 01:10 /user/cloudera/outp1
+-rw-r--r--   3 cloudera cloudera            0 2021-01-28 01:42 /user/cloudera/output
+drwxr-xr-x   - cloudera cloudera            0 2021-10-11 23:02 /user/cloudera/output1
+drwxr-xr-x   - cloudera cloudera            0 2021-02-03 19:59 /user/cloudera/outputa
+-rw-r--r--   3 cloudera cloudera          191 2020-03-11 21:11 /user/cloudera/patient
+drwxr-xr-x   - cloudera cloudera            0 2021-10-11 00:15 /user/cloudera/pig_b3
+-rw-r--r--   3 cloudera cloudera          190 2021-02-03 20:19 /user/cloudera/players
+-rw-r--r--   3 cloudera cloudera          206 2020-03-09 20:51 /user/cloudera/pro
+-rw-r--r--   3 cloudera cloudera           45 2020-03-09 20:51 /user/cloudera/q.csv
+drwxr-xr-x   - cloudera cloudera            0 2021-10-13 03:56 /user/cloudera/saisreeja
+-rw-r--r--   3 cloudera cloudera          206 2020-03-10 20:47 /user/cloudera/samp148.csv
+drwxr-xr-x   - cloudera cloudera            0 2021-10-15 22:11 /user/cloudera/sat
+drwxr-xr-x   - cloudera cloudera            0 2020-03-11 23:30 /user/cloudera/script1_086
+drwxr-xr-x   - cloudera cloudera            0 2020-03-11 23:12 /user/cloudera/script_086
+drwxr-xr-x   - cloudera cloudera            0 2020-03-12 21:50 /user/cloudera/script_o7
+drwxr-xr-x   - cloudera cloudera            0 2020-03-12 21:57 /user/cloudera/script_o8
+-rw-r--r--   3 cloudera cloudera          145 2020-03-09 22:51 /user/cloudera/split.txt
+drwxr-xr-x   - cloudera cloudera            0 2021-02-03 01:25 /user/cloudera/student
+drwxr-xr-x   - cloudera cloudera            0 2021-10-15 22:14 /user/cloudera/sty
+drwxr-xr-x   - cloudera cloudera            0 2020-11-12 02:07 /user/cloudera/t1
+drwxr-xr-x   - cloudera cloudera            0 2020-11-12 01:58 /user/cloudera/t2
+drwxr-xr-x   - cloudera cloudera            0 2021-10-15 22:07 /user/cloudera/teach
+drwxr-xr-x   - cloudera cloudera            0 2021-02-03 01:25 /user/cloudera/teacher
+-rw-r--r--   3 cloudera cloudera           13 2021-02-03 01:46 /user/cloudera/test
+-rw-r--r--   3 cloudera cloudera         8359 2020-11-18 01:22 /user/cloudera/text.csv
+-rw-r--r--   3 cloudera cloudera           64 2021-02-03 20:04 /user/cloudera/train
+-rw-r--r--   3 cloudera cloudera           64 2021-02-03 22:14 /user/cloudera/train1
+-rw-r--r--   3 cloudera cloudera           64 2021-02-03 22:30 /user/cloudera/train11
+[cloudera@localhost ~]$ hadoop fs -cat /user/cloudera/sty/part*
+101
+102
+103
+104
+105
+[cloudera@localhost ~]$ sqoop eval --connect "jdbc:mysql://localhost/dd1" --username root --query "insert into sty values(106),(107)"
+21/10/15 22:18:18 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+21/10/15 22:18:19 INFO tool.EvalSqlTool: 2 row(s) updated.
+[cloudera@localhost ~]$ sqoop import --connect "jdbc:mysql://localhost/dd1" --username root --table sty --target-dir /user/cloudera/sat/sqooplab9 --incremental append --check-column rno --last-value 105  -m 1
+21/10/15 22:26:50 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+21/10/15 22:26:50 INFO tool.CodeGenTool: Beginning code generation
+21/10/15 22:26:51 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `sty` AS t LIMIT 1
+21/10/15 22:26:51 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `sty` AS t LIMIT 1
+21/10/15 22:26:51 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /usr/lib/hadoop-0.20-mapreduce
+21/10/15 22:26:51 INFO orm.CompilationManager: Found hadoop core jar at: /usr/lib/hadoop-0.20-mapreduce/hadoop-core.jar
+Note: /tmp/sqoop-cloudera/compile/a3b7f4e5c27fe8f79ffa02cbd4692a8f/sty.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+21/10/15 22:27:02 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-cloudera/compile/a3b7f4e5c27fe8f79ffa02cbd4692a8f/sty.jar
+21/10/15 22:27:02 INFO tool.ImportTool: Maximal id query for free form incremental import: SELECT MAX(`rno`) FROM sty
+21/10/15 22:27:02 INFO tool.ImportTool: Incremental import based on column `rno`
+21/10/15 22:27:02 INFO tool.ImportTool: Lower bound value: 105
+21/10/15 22:27:02 INFO tool.ImportTool: Upper bound value: 107
+21/10/15 22:27:02 WARN manager.MySQLManager: It looks like you are importing from mysql.
+21/10/15 22:27:02 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+21/10/15 22:27:02 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+21/10/15 22:27:02 INFO manager.MySQLManager: Setting zero DATETIME behavior to convertToNull (mysql)
+21/10/15 22:27:02 INFO mapreduce.ImportJobBase: Beginning import of sty
+21/10/15 22:27:05 WARN mapred.JobClient: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+21/10/15 22:27:19 INFO mapred.JobClient: Running job: job_202110152121_0007
+21/10/15 22:27:20 INFO mapred.JobClient:  map 0% reduce 0%
+21/10/15 22:28:23 INFO mapred.JobClient:  map 100% reduce 0%
+21/10/15 22:28:26 INFO mapred.JobClient: Job complete: job_202110152121_0007
+21/10/15 22:28:26 INFO mapred.JobClient: Counters: 23
+21/10/15 22:28:26 INFO mapred.JobClient:   File System Counters
+21/10/15 22:28:26 INFO mapred.JobClient:     FILE: Number of bytes read=0
+21/10/15 22:28:26 INFO mapred.JobClient:     FILE: Number of bytes written=175602
+21/10/15 22:28:26 INFO mapred.JobClient:     FILE: Number of read operations=0
+21/10/15 22:28:26 INFO mapred.JobClient:     FILE: Number of large read operations=0
+21/10/15 22:28:26 INFO mapred.JobClient:     FILE: Number of write operations=0
+21/10/15 22:28:26 INFO mapred.JobClient:     HDFS: Number of bytes read=87
+21/10/15 22:28:26 INFO mapred.JobClient:     HDFS: Number of bytes written=8
+21/10/15 22:28:26 INFO mapred.JobClient:     HDFS: Number of read operations=1
+21/10/15 22:28:26 INFO mapred.JobClient:     HDFS: Number of large read operations=0
+21/10/15 22:28:26 INFO mapred.JobClient:     HDFS: Number of write operations=1
+21/10/15 22:28:26 INFO mapred.JobClient:   Job Counters 
+21/10/15 22:28:26 INFO mapred.JobClient:     Launched map tasks=1
+21/10/15 22:28:26 INFO mapred.JobClient:     Total time spent by all maps in occupied slots (ms)=61072
+21/10/15 22:28:26 INFO mapred.JobClient:     Total time spent by all reduces in occupied slots (ms)=0
+21/10/15 22:28:26 INFO mapred.JobClient:     Total time spent by all maps waiting after reserving slots (ms)=0
+21/10/15 22:28:26 INFO mapred.JobClient:     Total time spent by all reduces waiting after reserving slots (ms)=0
+21/10/15 22:28:26 INFO mapred.JobClient:   Map-Reduce Framework
+21/10/15 22:28:26 INFO mapred.JobClient:     Map input records=2
+21/10/15 22:28:26 INFO mapred.JobClient:     Map output records=2
+21/10/15 22:28:26 INFO mapred.JobClient:     Input split bytes=87
+21/10/15 22:28:26 INFO mapred.JobClient:     Spilled Records=0
+21/10/15 22:28:26 INFO mapred.JobClient:     CPU time spent (ms)=590
+21/10/15 22:28:26 INFO mapred.JobClient:     Physical memory (bytes) snapshot=97505280
+21/10/15 22:28:26 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=656605184
+21/10/15 22:28:26 INFO mapred.JobClient:     Total committed heap usage (bytes)=60751872
+21/10/15 22:28:26 INFO mapreduce.ImportJobBase: Transferred 8 bytes in 83.4004 seconds (0.0959 bytes/sec)
+21/10/15 22:28:26 INFO mapreduce.ImportJobBase: Retrieved 2 records.
+21/10/15 22:28:26 INFO util.AppendUtils: Creating missing output directory - sqooplab9
+21/10/15 22:28:27 INFO tool.ImportTool: Incremental import complete! To run another incremental import of all data following this import, supply the following arguments:
+21/10/15 22:28:27 INFO tool.ImportTool:  --incremental append
+21/10/15 22:28:27 INFO tool.ImportTool:   --check-column rno
+21/10/15 22:28:27 INFO tool.ImportTool:   --last-value 107
+21/10/15 22:28:27 INFO tool.ImportTool: (Consider saving this with 'sqoop job --create')
+[cloudera@localhost ~]$ hadoop fs -cat /user/cloudera/sat/sqooplab9/sty/part*cat: `/user/cloudera/sat/sqooplab9/sty/part*': No such file or directory
+[cloudera@localhost ~]$ hadoop fs -cat /user/cloudera/sat/sqooplab9/part*
+106
+107
+[cloudera@localhost ~]$ sqoop import --connect "jdbc:mysql://localhost/dd1" --username root --table sty --target-dir /user/cloudera/sat/sqooplab9 --incremental append --check-column rno   -m 1
+21/10/15 22:32:06 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+21/10/15 22:32:06 INFO tool.CodeGenTool: Beginning code generation
+21/10/15 22:32:07 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `sty` AS t LIMIT 1
+21/10/15 22:32:07 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `sty` AS t LIMIT 1
+21/10/15 22:32:07 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /usr/lib/hadoop-0.20-mapreduce
+21/10/15 22:32:07 INFO orm.CompilationManager: Found hadoop core jar at: /usr/lib/hadoop-0.20-mapreduce/hadoop-core.jar
+Note: /tmp/sqoop-cloudera/compile/c65f6a302b0756ac7686a393d5e58a97/sty.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+21/10/15 22:32:10 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-cloudera/compile/c65f6a302b0756ac7686a393d5e58a97/sty.jar
+21/10/15 22:32:10 INFO tool.ImportTool: Maximal id query for free form incremental import: SELECT MAX(`rno`) FROM sty
+21/10/15 22:32:10 INFO tool.ImportTool: Incremental import based on column `rno`
+21/10/15 22:32:10 INFO tool.ImportTool: Upper bound value: 107
+21/10/15 22:32:10 WARN manager.MySQLManager: It looks like you are importing from mysql.
+21/10/15 22:32:10 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+21/10/15 22:32:10 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+21/10/15 22:32:10 INFO manager.MySQLManager: Setting zero DATETIME behavior to convertToNull (mysql)
+21/10/15 22:32:10 INFO mapreduce.ImportJobBase: Beginning import of sty
+21/10/15 22:32:11 WARN mapred.JobClient: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+21/10/15 22:32:14 INFO mapred.JobClient: Running job: job_202110152121_0008
+21/10/15 22:32:15 INFO mapred.JobClient:  map 0% reduce 0%
+21/10/15 22:32:35 INFO mapred.JobClient:  map 100% reduce 0%
+21/10/15 22:32:37 INFO mapred.JobClient: Job complete: job_202110152121_0008
+21/10/15 22:32:37 INFO mapred.JobClient: Counters: 23
+21/10/15 22:32:37 INFO mapred.JobClient:   File System Counters
+21/10/15 22:32:37 INFO mapred.JobClient:     FILE: Number of bytes read=0
+21/10/15 22:32:37 INFO mapred.JobClient:     FILE: Number of bytes written=175584
+21/10/15 22:32:37 INFO mapred.JobClient:     FILE: Number of read operations=0
+21/10/15 22:32:37 INFO mapred.JobClient:     FILE: Number of large read operations=0
+21/10/15 22:32:37 INFO mapred.JobClient:     FILE: Number of write operations=0
+21/10/15 22:32:37 INFO mapred.JobClient:     HDFS: Number of bytes read=87
+21/10/15 22:32:37 INFO mapred.JobClient:     HDFS: Number of bytes written=28
+21/10/15 22:32:37 INFO mapred.JobClient:     HDFS: Number of read operations=1
+21/10/15 22:32:37 INFO mapred.JobClient:     HDFS: Number of large read operations=0
+21/10/15 22:32:37 INFO mapred.JobClient:     HDFS: Number of write operations=1
+21/10/15 22:32:37 INFO mapred.JobClient:   Job Counters 
+21/10/15 22:32:37 INFO mapred.JobClient:     Launched map tasks=1
+21/10/15 22:32:37 INFO mapred.JobClient:     Total time spent by all maps in occupied slots (ms)=20798
+21/10/15 22:32:37 INFO mapred.JobClient:     Total time spent by all reduces in occupied slots (ms)=0
+21/10/15 22:32:37 INFO mapred.JobClient:     Total time spent by all maps waiting after reserving slots (ms)=0
+21/10/15 22:32:37 INFO mapred.JobClient:     Total time spent by all reduces waiting after reserving slots (ms)=0
+21/10/15 22:32:37 INFO mapred.JobClient:   Map-Reduce Framework
+21/10/15 22:32:37 INFO mapred.JobClient:     Map input records=7
+21/10/15 22:32:37 INFO mapred.JobClient:     Map output records=7
+21/10/15 22:32:37 INFO mapred.JobClient:     Input split bytes=87
+21/10/15 22:32:37 INFO mapred.JobClient:     Spilled Records=0
+21/10/15 22:32:37 INFO mapred.JobClient:     CPU time spent (ms)=60
+21/10/15 22:32:37 INFO mapred.JobClient:     Physical memory (bytes) snapshot=114905088
+21/10/15 22:32:37 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=656605184
+21/10/15 22:32:37 INFO mapred.JobClient:     Total committed heap usage (bytes)=60751872
+21/10/15 22:32:37 INFO mapreduce.ImportJobBase: Transferred 28 bytes in 26.3929 seconds (1.0609 bytes/sec)
+21/10/15 22:32:37 INFO mapreduce.ImportJobBase: Retrieved 7 records.
+21/10/15 22:32:37 INFO util.AppendUtils: Appending to directory sqooplab9
+21/10/15 22:32:37 INFO util.AppendUtils: Using found partition 1
+21/10/15 22:32:37 INFO tool.ImportTool: Incremental import complete! To run another incremental import of all data following this import, supply the following arguments:
+21/10/15 22:32:37 INFO tool.ImportTool:  --incremental append
+21/10/15 22:32:37 INFO tool.ImportTool:   --check-column rno
+21/10/15 22:32:37 INFO tool.ImportTool:   --last-value 107
+21/10/15 22:32:37 INFO tool.ImportTool: (Consider saving this with 'sqoop job --create')
+[cloudera@localhost ~]$ hadoop fs -cat /user/cloudera/sat/sqooplab9/part*106
+107
+101
+102
+103
+104
+105
+106
+107
+[cloudera@localhost ~]$ gedit kk1
+[cloudera@localhost ~]$ hadoop fs put kk1 /user/cloudera/
+put: Unknown command
+Did you mean -put?  This command begins with a dash.
+[cloudera@localhost ~]$ hadoop fs -put kk1 /user/cloudera
+[cloudera@localhost ~]$ hadoop fs -ls /user/cloudera
+Found 57 items
+drwx------   - cloudera cloudera            0 2020-03-09 20:43 /user/cloudera/.Trash
+drwx------   - cloudera cloudera            0 2021-10-15 22:32 /user/cloudera/.staging
+drwxr-xr-x   - cloudera cloudera            0 2021-10-15 22:32 /user/cloudera/_sqoop
+-rw-r--r--   3 cloudera cloudera          282 2021-02-03 19:55 /user/cloudera/actor
+-rw-r--r--   3 cloudera cloudera         1564 2021-02-03 22:03 /user/cloudera/actor1
+-rw-r--r--   3 cloudera cloudera          212 2021-02-04 01:24 /user/cloudera/ara
+drwxr-xr-x   - cloudera cloudera            0 2020-11-19 21:43 /user/cloudera/b3
+-rw-r--r--   3 cloudera cloudera        59994 2020-11-24 20:48 /user/cloudera/cse553
+-rw-r--r--   3 cloudera cloudera           28 2020-03-13 03:43 /user/cloudera/data
+-rw-r--r--   3 cloudera cloudera           83 2020-03-11 22:59 /user/cloudera/datafile
+drwxr-xr-x   - cloudera cloudera            0 2021-01-17 22:56 /user/cloudera/deepti
+-rw-r--r--   3 cloudera cloudera         3101 2020-11-12 00:55 /user/cloudera/demo
+-rw-r--r--   3 cloudera cloudera          155 2020-03-11 21:11 /user/cloudera/doctor
+-rw-r--r--   3 cloudera cloudera         6201 2020-11-19 21:36 /user/cloudera/f1
+-rw-r--r--   3 cloudera cloudera           67 2021-02-03 00:46 /user/cloudera/f2
+-rw-r--r--   3 cloudera cloudera          110 2020-03-12 21:26 /user/cloudera/gobind
+drwxr-xr-x   - cloudera supergroup          0 2020-11-26 00:49 /user/cloudera/hio
+-rw-r--r--   3 cloudera cloudera           16 2021-10-15 22:34 /user/cloudera/kk1
+drwxr-xr-x   - cloudera cloudera            0 2021-02-03 00:57 /user/cloudera/l2out
+-rw-r--r--   3 cloudera cloudera           68 2021-10-11 22:48 /user/cloudera/lab1sem7.txt
+-rw-r--r--   3 cloudera cloudera           21 2020-03-11 22:03 /user/cloudera/math
+-rw-r--r--   3 cloudera cloudera          135 2021-01-28 00:25 /user/cloudera/movie
+drwxr-xr-x   - cloudera cloudera            0 2021-10-11 03:12 /user/cloudera/nh001
+-rw-r--r--   3 cloudera cloudera            0 2021-01-28 01:04 /user/cloudera/op
+drwxr-xr-x   - cloudera cloudera            0 2020-11-24 21:02 /user/cloudera/op_grep
+drwxr-xr-x   - cloudera cloudera            0 2020-11-24 20:55 /user/cloudera/opcse553
+drwxr-xr-x   - cloudera cloudera            0 2021-01-17 23:50 /user/cloudera/out1
+drwxr-xr-x   - cloudera cloudera            0 2021-01-18 00:03 /user/cloudera/out2
+drwxr-xr-x   - cloudera cloudera            0 2021-02-03 22:08 /user/cloudera/outactor
+drwxr-xr-x   - cloudera cloudera            0 2020-11-12 01:10 /user/cloudera/outp1
+-rw-r--r--   3 cloudera cloudera            0 2021-01-28 01:42 /user/cloudera/output
+drwxr-xr-x   - cloudera cloudera            0 2021-10-11 23:02 /user/cloudera/output1
+drwxr-xr-x   - cloudera cloudera            0 2021-02-03 19:59 /user/cloudera/outputa
+-rw-r--r--   3 cloudera cloudera          191 2020-03-11 21:11 /user/cloudera/patient
+drwxr-xr-x   - cloudera cloudera            0 2021-10-11 00:15 /user/cloudera/pig_b3
+-rw-r--r--   3 cloudera cloudera          190 2021-02-03 20:19 /user/cloudera/players
+-rw-r--r--   3 cloudera cloudera          206 2020-03-09 20:51 /user/cloudera/pro
+-rw-r--r--   3 cloudera cloudera           45 2020-03-09 20:51 /user/cloudera/q.csv
+drwxr-xr-x   - cloudera cloudera            0 2021-10-13 03:56 /user/cloudera/saisreeja
+-rw-r--r--   3 cloudera cloudera          206 2020-03-10 20:47 /user/cloudera/samp148.csv
+drwxr-xr-x   - cloudera cloudera            0 2021-10-15 22:28 /user/cloudera/sat
+drwxr-xr-x   - cloudera cloudera            0 2020-03-11 23:30 /user/cloudera/script1_086
+drwxr-xr-x   - cloudera cloudera            0 2020-03-11 23:12 /user/cloudera/script_086
+drwxr-xr-x   - cloudera cloudera            0 2020-03-12 21:50 /user/cloudera/script_o7
+drwxr-xr-x   - cloudera cloudera            0 2020-03-12 21:57 /user/cloudera/script_o8
+-rw-r--r--   3 cloudera cloudera          145 2020-03-09 22:51 /user/cloudera/split.txt
+drwxr-xr-x   - cloudera cloudera            0 2021-02-03 01:25 /user/cloudera/student
+drwxr-xr-x   - cloudera cloudera            0 2021-10-15 22:14 /user/cloudera/sty
+drwxr-xr-x   - cloudera cloudera            0 2020-11-12 02:07 /user/cloudera/t1
+drwxr-xr-x   - cloudera cloudera            0 2020-11-12 01:58 /user/cloudera/t2
+drwxr-xr-x   - cloudera cloudera            0 2021-10-15 22:07 /user/cloudera/teach
+drwxr-xr-x   - cloudera cloudera            0 2021-02-03 01:25 /user/cloudera/teacher
+-rw-r--r--   3 cloudera cloudera           13 2021-02-03 01:46 /user/cloudera/test
+-rw-r--r--   3 cloudera cloudera         8359 2020-11-18 01:22 /user/cloudera/text.csv
+-rw-r--r--   3 cloudera cloudera           64 2021-02-03 20:04 /user/cloudera/train
+-rw-r--r--   3 cloudera cloudera           64 2021-02-03 22:14 /user/cloudera/train1
+-rw-r--r--   3 cloudera cloudera           64 2021-02-03 22:30 /user/cloudera/train11
+[cloudera@localhost ~]$ hadoop fs -cat /user/cloudera/kk1
+1,a
+2,b
+3,c
+4,d
+[cloudera@localhost ~]$ sqoop eval --connect "jdbc:mysql://localhost/dd1" --username root --query "create table table_kk1(a int , b char)"
+21/10/15 22:37:02 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+21/10/15 22:37:03 INFO tool.EvalSqlTool: 0 row(s) updated.
+[cloudera@localhost ~]$ sqoop export --connect "jdbc:mysql://localhost/dd1" --username root --table table_kk1 --export-dir /user/cloudera/kk1
+21/10/15 22:38:05 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+21/10/15 22:38:05 INFO tool.CodeGenTool: Beginning code generation
+21/10/15 22:38:05 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `table_kk1` AS t LIMIT 1
+21/10/15 22:38:05 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `table_kk1` AS t LIMIT 1
+21/10/15 22:38:05 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /usr/lib/hadoop-0.20-mapreduce
+21/10/15 22:38:05 INFO orm.CompilationManager: Found hadoop core jar at: /usr/lib/hadoop-0.20-mapreduce/hadoop-core.jar
+Note: /tmp/sqoop-cloudera/compile/9db04b8e4401494dec22682ee84857be/table_kk1.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+21/10/15 22:38:08 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-cloudera/compile/9db04b8e4401494dec22682ee84857be/table_kk1.jar
+21/10/15 22:38:08 INFO mapreduce.ExportJobBase: Beginning export of table_kk1
+21/10/15 22:38:09 WARN mapred.JobClient: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+21/10/15 22:38:10 INFO input.FileInputFormat: Total input paths to process : 1
+21/10/15 22:38:10 INFO input.FileInputFormat: Total input paths to process : 1
+21/10/15 22:38:10 INFO mapred.JobClient: Running job: job_202110152121_0009
+21/10/15 22:38:11 INFO mapred.JobClient:  map 0% reduce 0%
+21/10/15 22:38:46 INFO mapred.JobClient:  map 25% reduce 0%
+21/10/15 22:38:49 INFO mapred.JobClient:  map 50% reduce 0%
+21/10/15 22:38:57 INFO mapred.JobClient:  map 75% reduce 0%
+21/10/15 22:38:58 INFO mapred.JobClient:  map 100% reduce 0%
+21/10/15 22:39:00 INFO mapred.JobClient: Job complete: job_202110152121_0009
+21/10/15 22:39:00 INFO mapred.JobClient: Counters: 24
+21/10/15 22:39:00 INFO mapred.JobClient:   File System Counters
+21/10/15 22:39:00 INFO mapred.JobClient:     FILE: Number of bytes read=0
+21/10/15 22:39:00 INFO mapred.JobClient:     FILE: Number of bytes written=697132
+21/10/15 22:39:00 INFO mapred.JobClient:     FILE: Number of read operations=0
+21/10/15 22:39:00 INFO mapred.JobClient:     FILE: Number of large read operations=0
+21/10/15 22:39:00 INFO mapred.JobClient:     FILE: Number of write operations=0
+21/10/15 22:39:00 INFO mapred.JobClient:     HDFS: Number of bytes read=580
+21/10/15 22:39:00 INFO mapred.JobClient:     HDFS: Number of bytes written=0
+21/10/15 22:39:00 INFO mapred.JobClient:     HDFS: Number of read operations=16
+21/10/15 22:39:00 INFO mapred.JobClient:     HDFS: Number of large read operations=0
+21/10/15 22:39:00 INFO mapred.JobClient:     HDFS: Number of write operations=0
+21/10/15 22:39:00 INFO mapred.JobClient:   Job Counters 
+21/10/15 22:39:00 INFO mapred.JobClient:     Launched map tasks=4
+21/10/15 22:39:00 INFO mapred.JobClient:     Data-local map tasks=4
+21/10/15 22:39:00 INFO mapred.JobClient:     Total time spent by all maps in occupied slots (ms)=82920
+21/10/15 22:39:00 INFO mapred.JobClient:     Total time spent by all reduces in occupied slots (ms)=0
+21/10/15 22:39:00 INFO mapred.JobClient:     Total time spent by all maps waiting after reserving slots (ms)=0
+21/10/15 22:39:00 INFO mapred.JobClient:     Total time spent by all reduces waiting after reserving slots (ms)=0
+21/10/15 22:39:00 INFO mapred.JobClient:   Map-Reduce Framework
+21/10/15 22:39:00 INFO mapred.JobClient:     Map input records=4
+21/10/15 22:39:00 INFO mapred.JobClient:     Map output records=4
+21/10/15 22:39:00 INFO mapred.JobClient:     Input split bytes=528
+21/10/15 22:39:00 INFO mapred.JobClient:     Spilled Records=0
+21/10/15 22:39:00 INFO mapred.JobClient:     CPU time spent (ms)=2890
+21/10/15 22:39:00 INFO mapred.JobClient:     Physical memory (bytes) snapshot=424091648
+21/10/15 22:39:00 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=2617999360
+21/10/15 22:39:00 INFO mapred.JobClient:     Total committed heap usage (bytes)=243007488
+21/10/15 22:39:00 INFO mapreduce.ExportJobBase: Transferred 580 bytes in 51.1094 seconds (11.3482 bytes/sec)
+21/10/15 22:39:00 INFO mapreduce.ExportJobBase: Exported 4 records.
+[cloudera@localhost ~]$ sqoop eval --connect "jdbc:mysql://localhost/dd1" --username root --query "select * from table_kk1"
+21/10/15 22:41:47 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+-------------------
+| a           | b | 
+-------------------
+| 1           | a | 
+| 2           | b | 
+| 3           | c | 
+| 4           | d | 
+-------------------
+[cloudera@localhost ~]$ 
